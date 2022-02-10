@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_DMobil2022.GeoQuiz.iml" filepath="$PROJECT_DIR$/.idea/modules/1_DMobil2022.GeoQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/1_DMobil2022.GeoQuiz.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/1_DMobil2022.GeoQuiz.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GeoQuiz.iml" filepath="$PROJECT_DIR$/.idea/modules/GeoQuiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GeoQuiz.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GeoQuiz.app.iml" />
     </modules>
